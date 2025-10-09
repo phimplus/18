@@ -1,0 +1,8 @@
+{
+    "name": "Vietnamese NSFW",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitlab.com/tearrs/nsfw/-/raw/main/plugins.json"
+    ]
+}
